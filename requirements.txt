@@ -1,0 +1,5 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+pyfirmata>=1.1.0
+pillow>=10.0.0
+pyserial>=3.5
